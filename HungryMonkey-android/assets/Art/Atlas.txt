@@ -1,0 +1,53 @@
+Atlas.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fruit2
+  rotate: false
+  xy: 850, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+monkey
+  rotate: false
+  xy: 0, 886
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+fruit4
+  rotate: false
+  xy: 950, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+fruit3
+  rotate: false
+  xy: 900, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+instructions
+  rotate: false
+  xy: 0, 480
+  size: 705, 406
+  orig: 705, 406
+  offset: 0, 0
+  index: -1
+fruit1
+  rotate: false
+  xy: 800, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 0, 0
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
